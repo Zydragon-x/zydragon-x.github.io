@@ -908,7 +908,7 @@ body::after {
   z-index: 0;
   width: 100%;
   height: 100%;
-  background: url("https://pic.netbian.com/uploads/allimg/180826/113958-153525479855be.jpg") no-repeat center/cover;
+  background: url("https://gimg2.baidu.com/image_search/src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fimages%2F20190819%2Fee9a8df9049e4b819229832dccef4859.jpeg&refer=http%3A%2F%2F5b0988e595225.cdn.sohucs.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1659891040&t=7ff5551f93ccaffdfe4e0c41702d9953") no-repeat center/cover;
 }
 .header-banner-info {
   position: absolute;
