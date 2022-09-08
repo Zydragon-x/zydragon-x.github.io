@@ -686,7 +686,7 @@ body::after {
 }
 .content-wrap {
   width: calc(100% - 313px);
-  float: right;
+  float: left;
 }
 .content-wrap--noside {
   float: none;
@@ -1122,7 +1122,7 @@ body::after {
 }
 .sidebar-wrap {
   width: 288px;
-  float: left;
+  float: right;
 }
 .sidebar-nav {
   padding-bottom: 1em;
@@ -2633,7 +2633,7 @@ body::after {
   border-radius: 5px;
   padding: 1rem 2rem;
   background-color: var(--color-card);
-  float: right;
+  float: left;
 }
 :root {
   --color-gt-textarea-bg: #f6f6f6;
